@@ -2,53 +2,53 @@
 [ti:Lemon]
 [cr:Ram]
 
-[00:01.000]Yume naraba dore hodo yokatta deshou
-[00:07.000]Imada ni anata no koto wo yume ni miru
-[00:12.000]Wasureta mono wo tori ni kaeru you ni
-[00:18.000]Furubita omoide no hokori wo harau
-[00:24.000]
-[00:26.000]Modoranai shiawase ga aru koto wo
-[00:32.000]Saigo ni anata ga oshiete kureta
-[00:37.500]Iezu ni kakushiteta kurai kako mo
-[00:43.000]Anata ga inakya eien ni kurai mama
-[00:48.000]
-[00:49.000]Kitto mou kore ijou kizutsuku koto nado
-[00:54.000]Ari wa shinai to wakatte iru
+[00:01.00]Yume naraba dore hodo yokatta deshou
+[00:07.00]Imada ni anata no koto wo yume ni miru
+[00:12.00]Wasureta mono wo tori ni kaeru you ni
+[00:18.00]Furubita omoide no hokori wo harau
+[00:24.00]
+[00:26.00]Modoranai shiawase ga aru koto wo
+[00:32.00]Saigo ni anata ga oshiete kureta
+[00:37.50]Iezu ni kakushiteta kurai kako mo
+[00:43.00]Anata ga inakya eien ni kurai mama
+[00:48.00]
+[00:49.00]Kitto mou kore ijou kizutsuku koto nado
+[00:54.00]Ari wa shinai to wakatte iru
 
-[00:59.000]Ano hi no kanashimi sae ano hi no kurushimi sae
-[01:04.000]Sono subete wo aishiteta anata to tomo ni
-[01:10.000]Mune ni nokori hanarenai nigai remon no nioi
-[01:16.000]Ame ga furiyamu made wa kaerenai
-[01:21.000]Ima demo anata wa watashi no hikari
-[01:27.000]
-[01:38.000]Kurayami de anata no se wo nazotta
-[01:43.500]Sono rinkaku wo senmei ni oboete iru
-[01:49.000]Uketome kirenai mono to deau tabi
-[01:55.000]Afurete yamanai no wa namida dake
+[00:59.00]Ano hi no kanashimi sae ano hi no kurushimi sae
+[01:04.00]Sono subete wo aishiteta anata to tomo ni
+[01:10.00]Mune ni nokori hanarenai nigai remon no nioi
+[01:16.00]Ame ga furiyamu made wa kaerenai
+[01:21.00]Ima demo anata wa watashi no hikari
+[01:27.00]
+[01:38.00]Kurayami de anata no se wo nazotta
+[01:43.50]Sono rinkaku wo senmei ni oboete iru
+[01:49.00]Uketome kirenai mono to deau tabi
+[01:55.00]Afurete yamanai no wa namida dake
 
-[02:00.000]Nani wo shiteita no nani wo miteita no
-[02:06.000]Watashi no shiranai yokogao de
+[02:00.00]Nani wo shiteita no nani wo miteita no
+[02:06.00]Watashi no shiranai yokogao de
 
-[02:11.000]Dokoka de anata ga ima watashi to onaji you na
-[02:16.500]Namida ni kure sabishisa no naka ni iru nara
-[02:21.000]Watashi no koto nado douka wasurete kudasai
-[02:28.000]Sonna koto wo kokoro kara negau hodo ni
-[02:33.000]Ima demo anata wa watashi no hikari
-[02:39.000]
-[02:42.000]Jibun ga omou yori
-[02:47.000]Koi wo shiteita anata ni
-[02:53.000]Are kara omou you ni
-[02:58.000]Iki ga dekinai
-[03:03.000]Anna ni soba ni ita no ni
-[03:09.000]Marude uso mitai
-[03:14.000]Totemo wasurerarenai
-[03:20.000]Sore dake ga tashika
-[03:27.000]
-[03:30.000]Ano hi no kanashimi sae ano hi no kurushimi sae
-[03:36.500]Sono subete wo aishiteta anata to tomo ni
-[03:41.500]Mune ni nokori hanarenai nigai remon no nioi
-[03:48.000]Ame ga furiyamu made wa kaerenai
-[03:53.000]Kiriwaketa kajitsu no katahou no you ni
-[03:59.000]Ima demo anata wa watashi no hikari
-[04:09.000]
-[04:11.000]ありがとう
+[02:11.00]Dokoka de anata ga ima watashi to onaji you na
+[02:16.50]Namida ni kure sabishisa no naka ni iru nara
+[02:21.00]Watashi no koto nado douka wasurete kudasai
+[02:28.00]Sonna koto wo kokoro kara negau hodo ni
+[02:33.00]Ima demo anata wa watashi no hikari
+[02:39.00]
+[02:42.00]Jibun ga omou yori
+[02:47.00]Koi wo shiteita anata ni
+[02:53.00]Are kara omou you ni
+[02:58.00]Iki ga dekinai
+[03:03.00]Anna ni soba ni ita no ni
+[03:09.00]Marude uso mitai
+[03:14.00]Totemo wasurerarenai
+[03:20.00]Sore dake ga tashika
+[03:27.00]
+[03:30.00]Ano hi no kanashimi sae ano hi no kurushimi sae
+[03:36.50]Sono subete wo aishiteta anata to tomo ni
+[03:41.50]Mune ni nokori hanarenai nigai remon no nioi
+[03:48.00]Ame ga furiyamu made wa kaerenai
+[03:53.00]Kiriwaketa kajitsu no katahou no you ni
+[03:59.00]Ima demo anata wa watashi no hikari
+[04:09.00]
+[04:11.00]ありがとう
