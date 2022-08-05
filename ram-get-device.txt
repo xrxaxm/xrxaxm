@@ -4,4 +4,4 @@
  console.log(WURFL);
  document.getElementById("xrxaxmdevice").innerHTML = WURFL.complete_device_name;
 </script>
-<div class="text" id="xrxaxmdevice"></div>
+<small class="text" id="xrxaxmdevice"></small>
