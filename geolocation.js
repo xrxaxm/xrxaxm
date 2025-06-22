@@ -27,3 +27,15 @@ document.getElementById("country").innerHTML=res["country"];
 document.getElementById("country_area").innerHTML=res["country_area"];
  
 document.getElementById("country_population").innerHTML=res["country_population"];
+
+navigator.geolocation.getCurrentPosition(function(position) {
+  const lat = position.coords.latitude;
+  const lon = position.coords.longitude;
+
+  document.getElementById("latitude").textContent = lat.toFixed(6);
+  document.getElementById("longitude").textContent = lon.toFixed(6);
+
+  // Optional: reverse geocoding pakai API pihak ketiga (Google Maps, Nominatim, dll.)
+}, function(error) {
+  console.warn("User denied geolocation or error occurred:", error.message);
+});
