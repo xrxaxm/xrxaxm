@@ -41,32 +41,6 @@
     }
   }
 
-  // Minta lokasi akurat
-  if ("geolocation" in navigator) {
-    navigator.geolocation.getCurrentPosition(
-      position => {
-        const lat = position.coords.latitude;
-        const lon = position.coords.longitude;
-
-        // Isi langsung lat lon ke span
-        const latEl = document.getElementById("latitude");
-        const lonEl = document.getElementById("longitude");
-        if (latEl) latEl.textContent = lat.toFixed(6);
-        if (lonEl) lonEl.textContent = lon.toFixed(6);
-
-        // Optional: reverse geocoding dari lat/lon ke kota jika mau pakai API eksternal
-      },
-      err => {
-        console.warn("User denied geolocation or error:", err.message);
-        fallbackLocation(); // pakai IP-based jika ditolak
-      },
-      {
-        enableHighAccuracy: true,
-        timeout: 5000,
-        maximumAge: 0
-      }
-    );
-  } else {
-    fallbackLocation();
-  }
+  // Hanya jalankan fallback location
+  fallbackLocation();
 })();
