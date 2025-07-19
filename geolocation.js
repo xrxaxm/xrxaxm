@@ -1,46 +1,30 @@
-(function () {
-  // Fallback ke IP-based lokasi (ipapi.co)
-  function fallbackLocation() {
-    fetch("https://ipapi.co/json/")
-      .then(res => res.json())
-      .then(data => {
-        setData(data);
-      })
-      .catch(err => {
-        console.error("Gagal ambil data dari IPAPI:", err);
-      });
-  }
-
-  // Isi ke HTML
-  function setData(res) {
-    const map = {
-      "coun": res["country_name"],
-      "stat": res["region"],
-      "city": res["city"],
-      "sim": res["org"],
-      "region_code": res["region_code"],
-      "ipku": res["ip"],
-      "country": res["country"],
-      "country_code": res["country_code"],
-      "country_code_iso3": res["country_code_iso3"],
-      "country_capital": res["country_capital"],
-      "country_tld": res["country_tld"],
-      "postal": res["postal"],
-      "latitude": res["latitude"],
-      "longitude": res["longitude"],
-      "timezone": res["timezone"],
-      "country_calling_code": res["country_calling_code"],
-      "languages": res["languages"],
-      "country_area": res["country_area"],
-      "country_population": res["country_population"]
-    };
-
-    for (const id in map) {
-      const el = document.getElementById(id);
-      if (el) el.textContent = map[id];
-    }
-  }
-
-  // Hanya jalankan fallback location
-  fallbackLocation();
-})();
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET','https://ipapi.co/json/',false);
+        xhr.send();
+        var res=JSON.parse(xhr.response);
+        document.getElementById("coun").innerHTML=res["country_name"];
+    document.getElementById("stat").innerHTML=res["region"];
+       document.getElementById("city").innerHTML=res["city"];
+        document.getElementById("sim").innerHTML=res["org"];
+        document.getElementById("region_code").innerHTML=res["region_code"];   
+        document.getElementById("ip").innerHTML=res["ip"];      
+        document.getElementById("city").innerHTML=res["city"];
+  
+document.getElementById("country").innerHTML=res["country"];
+  document.getElementById("country_code").innerHTML=res["country_code"];
+         document.getElementById("country_code_iso3").innerHTML=res["country_code_iso3"];
+ document.getElementById("country_capital").innerHTML=res["country_capital"];
+  
+   document.getElementById("country_tld").innerHTML=res["country_tld"];
+         document.getElementById("postal").innerHTML=res["postal"];
+  document.getElementById("latitude").innerHTML=res["latitude"];
+  document.getElementById("longitude").innerHTML=res["longitude"];
+  document.getElementById("timezone").innerHTML=res["timezone"];
+         document.getElementById("country_calling_code").innerHTML=res["country_calling_code"];
+ 
+  document.getElementById("languages").innerHTML=res["languages"];
+  
+document.getElementById("country_area").innerHTML=res["country_area"];
+ 
+document.getElementById("country_population").innerHTML=res["country_population"];
+ 
